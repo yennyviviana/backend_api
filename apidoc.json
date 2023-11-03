@@ -1,0 +1,16 @@
+{
+    "name": "Mi API",
+    "version": "1.0.0",
+    "description": "Documentación de mi API REST",
+    "title": "Mi API REST",
+    "url" : "http://localhost:3001",
+    "header" : {
+      "title" : "Encabezado",
+      "content": "<h1>Mi API REST</h1>"
+    },
+    "template": {
+      "withCompare": true,
+      "withGenerator": true
+    }
+  }
+  
